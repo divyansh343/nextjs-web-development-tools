@@ -1,4 +1,4 @@
-# nextjs-web-development-tools
+# Nextjs Web Development Tools
 Next.js Web Development Tools is a comprehensive collection of essential resources and utilities designed to streamline and enhance the development process for Next.js applications.
 
 
@@ -141,3 +141,8 @@ Next.js Web Development Tools is a comprehensive collection of essential resourc
 | [**Storybook**](https://storybook.js.org)      | Free (Open Source)      | UI component library for building and testing components in isolation.     |
 | [**Notion API**](https://www.notion.so/my-integrations) | Free (Limited Access)   | API to access and manage data in Notion databases and pages.                |
 | [**Jotai**](https://jotai.org)                | Free (Open Source)      | Primitive and flexible state management for React, similar to Zustand but with a simpler API. |
+
+
+> Have suggestions or additional resources? Feel free to submit them via a Pull Request (PR)!
+> Thanks🫡
+
